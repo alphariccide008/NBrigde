@@ -1,0 +1,22 @@
+<svg width="680" height="200" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <title>Northbridge Recruiting Group</title>
+  <style>
+    .logo-text-main { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 700; font-size: 36px; fill: #0077B6; letter-spacing: 1px; }
+    .logo-text-sub  { font-family: 'Helvetica Neue', Arial, sans-serif; font-weight: 400; font-size: 13.5px; fill: #0096C7; letter-spacing: 5px; }
+  </style>
+  <g transform="translate(40, 40)">
+    <path d="M0,80 Q30,20 60,80" fill="none" stroke="#0077B6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M60,80 Q90,20 120,80" fill="none" stroke="#0077B6" stroke-width="5" stroke-linecap="round"/>
+    <line x1="0" y1="80" x2="120" y2="80" stroke="#0077B6" stroke-width="4" stroke-linecap="round"/>
+    <line x1="30" y1="46" x2="30" y2="80" stroke="#0077B6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="60" y1="30" x2="60" y2="80" stroke="#0077B6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="90" y1="46" x2="90" y2="80" stroke="#0077B6" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="0" y1="90" x2="120" y2="90" stroke="#0077B6" stroke-width="3" stroke-linecap="round"/>
+    <rect x="-4" y="50" width="8" height="40" rx="1" fill="#0077B6"/>
+    <rect x="116" y="50" width="8" height="40" rx="1" fill="#0077B6"/>
+  </g>
+  <line x1="185" y1="45" x2="185" y2="155" stroke="#0077B6" stroke-width="1.5"/>
+  <text x="205" y="105" class="logo-text-main">NORTHBRIDGE</text>
+  <line x1="205" y1="115" x2="620" y2="115" stroke="#0096C7" stroke-width="0.8"/>
+  <text x="208" y="140" class="logo-text-sub">RECRUITING GROUP</text>
+</svg>
